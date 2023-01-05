@@ -1,2 +1,2 @@
 # K-NN
-The model should predict the target variable of a new observation
+Training the model to predict the target variable of a new observation
